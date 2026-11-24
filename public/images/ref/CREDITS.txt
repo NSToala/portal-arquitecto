@@ -1,0 +1,18 @@
+Fotos de referencia (placeholders). Reemplazar por fotos propias antes de publicar.
+Fuente: Wikimedia Commons. Las marcadas CC BY / CC BY-SA exigen mantener este crédito.
+
+- hero.jpg | Farnsworth House | Carol M. Highsmith | Public domain | https://commons.wikimedia.org/wiki/File:The_1951_Mies_van_der_Rohe-designed_Farnsworth_House,_an_icon_of_20th_century_modern_architecture_in_Plano,_Illinois,_is_owned_by_the_National_Trust_for_Historic_Preservation_LCCN2011636469.tif
+- casa-lago.jpg | Philip Johnson Glass House | A. Latina Brown | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Philip_Johnson_Glass_House_The_House.jpg
+- depto.jpg | Modern living room with stylish furniture... | Shixart1985 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Modern_living_room_with_stylish_furniture_and_a_view_of_the_outdoors_in_a_cozy_apartment_setting.jpg
+- cafe.jpg | DZ6 0566 cozy dimly lit modern cafe | PattayaPatrol | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:DZ6_0566_A_cozy_dimly_lit_modern_caf%C3%A9_with_wooden_tables_ambient_spotlights_and_leafy_greenery_creating_an_intimate_evening_atmosphere.jpg
+- comedor.jpg | Modern dining area with stylish table and chairs | Shixart1985 | CC BY 2.0 | https://commons.wikimedia.org/wiki/File:Modern_dining_area_with_stylish_table_and_chairs_in_cozy_interior_design.jpg
+- oficinas.jpg | Minimalist office decor at 1540 7th St | Breather | CC0 | https://commons.wikimedia.org/wiki/File:Minimalist_office_decor_at_1540_7th_St_(Unsplash).jpg
+- oficinas2.jpg | Working in open office space | Crew | CC0 | https://commons.wikimedia.org/wiki/File:Working_in_open_office_space_(Unsplash).jpg
+- estudio2.jpg | Japanese Desk | Luke Chesser | CC0 | https://commons.wikimedia.org/wiki/File:Japanese_Desk_(Unsplash).jpg
+- cocina.jpg | Blue white kitchen interior | NeONBRAND | CC0 | https://commons.wikimedia.org/wiki/File:Blue_white_kitchen_interior_(Unsplash).jpg
+- cocina2.jpg | Kitchen | Naomi Hebert | CC0 | https://commons.wikimedia.org/wiki/File:Kitchen_(Unsplash).jpg
+- tv.jpg | Living room | Jaroslaw Ceborski | CC0 | https://commons.wikimedia.org/wiki/File:Living_room_(Unsplash).jpg
+- bano.jpg | White towel in tiled bathroom | David Cohen | CC0 | https://commons.wikimedia.org/wiki/File:White_towel_in_tiled_bathroom_(Unsplash).jpg
+- biblioteca.jpg | Old books on bookshelf | Clem Onojeghuo | CC0 | https://commons.wikimedia.org/wiki/File:Old_books_on_bookshelf._(Unsplash).jpg
+- ../retrato.jpg | Always smile (Unsplash) | michael m_minimal | CC0 | https://commons.wikimedia.org/wiki/File:Always_smile_(Unsplash).jpg (retrato de referencia, reemplazar por el real)
+- ../equipo-mujer.jpg | Happy daughter (Unsplash) | Michael Dam | CC0 | https://commons.wikimedia.org/wiki/File:Happy_daughter_(Unsplash).jpg (foto de referencia, reemplazar por la real)

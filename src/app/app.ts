@@ -1,12 +1,20 @@
-import { Component, signal } from '@angular/core';
+import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { BackToTop } from './layout/back-to-top';
+import { Footer } from './layout/footer';
+import { Header } from './layout/header';
 
 @Component({
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, Header, Footer, BackToTop],
   selector: 'app-root',
-  styleUrl: './app.scss',
-  templateUrl: './app.html',
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  template: `
+    <app-header />
+    <main>
+      <router-outlet />
+    </main>
+    <app-footer />
+    <app-back-to-top />
+  `,
 })
-export class App {
-  protected readonly title = signal('portal-arquitecto');
-}
+export class App {}
